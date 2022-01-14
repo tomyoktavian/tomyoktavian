@@ -1,4 +1,4 @@
-### Hi there, I'm Marcelino Oktaviansyah you can call me marcel! 👋
+### Hi there, I'm Hartomy okta you can call me tom! 👋
 
 - 🔭 I’m currently collage on Malang, Indonesia
 - 🌱 I’m currently learning go
