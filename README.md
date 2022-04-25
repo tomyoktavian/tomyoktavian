@@ -1,4 +1,4 @@
-### Hi there, I'm Hartomy okta you can call me tom! 👋
+### Hi there, I'm Hartomy okta! 👋
 
 - 🔭 I’m currently collage on Malang, Indonesia
 - 🌱 I’m currently learning go
