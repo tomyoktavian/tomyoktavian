@@ -74,10 +74,9 @@
   <!-- <img src="https://streak-stats.demolab.com?user=tomyoktavian&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
 </div>
 
-###
-
 <div>
   <a href="https://github.com/tomyoktavian?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=tomyoktavian&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomyoktavian&layout=compact&theme=react&hide=php&langs_count=6" />
-  <a href="https://wakatime.com/@tomyoktavian"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=tomyoktavian&layout=compact&theme=react&langs_count=6" /></a>
 </div>
+
+###
