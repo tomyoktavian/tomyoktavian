@@ -31,7 +31,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,redux,react,nextjs,vite,vue,ts,js,nodejs,express,laravel,php,mysql,postgres,supabase)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,nextjs,vite,vue,ts,js,nodejs,express,laravel,php,mysql,postgres,supabase)](https://skillicons.dev) 
 
 ###
 
