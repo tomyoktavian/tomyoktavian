@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">As a frontend developer with more than 4 years of experience, I have experience working with a wide range of companies, from startups and IT consultants. In addition to my expertise in frontend development, I also have experience with backend technologies. I am passionate about creating intuitive and user-friendly experiences and I am constantly striving to improve my skills and stay up-to-date with the latest technology and industry trends.</p>
+<p align="left">As a frontend developer with experience working with a wide range of companies, from startups and IT consultants. In addition to my expertise in frontend development, I also have experience with backend technologies. I am passionate about creating intuitive and user-friendly experiences and I am constantly striving to improve my skills and stay up-to-date with the latest technology and industry trends.</p>
 
 ###
 
