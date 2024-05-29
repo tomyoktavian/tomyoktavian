@@ -13,11 +13,11 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 My favourite languages and tools</h3>
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,nextjs,vite,vue,ts,nodejs,nestjs,express,laravel,mysql,postgres,supabase)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=tailwind,mui,react,nextjs,vue,ts,nodejs,nestjs,express,adonis,laravel,mysql,postgres,prisma,sequelize)](https://skillicons.dev) 
 
 ###
 
