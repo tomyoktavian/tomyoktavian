@@ -17,7 +17,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,mui,react,nextjs,vue,ts,nodejs,nestjs,express,adonis,laravel,mysql,postgres,prisma,sequelize)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=tailwind,mui,react,nextjs,vue,ts,nodejs,nestjs,express,flutter,dart,laravel,mysql,postgres,prisma)](https://skillicons.dev) 
 
 ###
 
